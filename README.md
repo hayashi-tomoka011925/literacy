@@ -1,3 +1,3 @@
 # literacy
 
-test
+林の主張

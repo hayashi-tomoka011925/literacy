@@ -1,3 +1,6 @@
-# literacy
+I love [Wikipedia](htps://ja.wikipedia.org).!
 
-林の主張
+[テキスト](https://ww.google.co.jp/)
+
+
+

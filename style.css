@@ -1,6 +1,9 @@
+em{color:green;}
+
 th { 
     color:white
     background:orenge;}
-table,th,td{
+th,td{
 border:1px solid black; 
+table{
 border-collapse:collapse;}
